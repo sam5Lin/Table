@@ -279,8 +279,17 @@ public class Table extends JFrame {
                 myTextField.getjTextField().setCaretColor(Color.RED);
 
                 //改变字体颜色
-                myTextField.getjTextField().setForeground(Color.red);
-                myTextField.setValue(tableValues[row][col - 1]);
+               // myTextField.getjTextField().setForeground(Color.red);
+                if(row == 2 && col == 3){
+                    myTextField.getjTextField().setForeground(Color.red);
+                }
+                char c = (char)('A' + col - 1);
+                if(!" ".equals(tableValues[row][col - 1]) && tableValues[row][col - 1] != null && tableValues[row][col - 1].length() >= 1){
+                    myTextField.setValue(tableValues[row][col - 1] + " "  + String.valueOf(c));
+                }
+                else{
+                    myTextField.setValue(tableValues[row][col - 1]);
+                }
                 myTextField.getjTextField().getDocument().addDocumentListener(new DocumentListener() {
                     @Override
                     public void insertUpdate(DocumentEvent documentEvent) {
@@ -426,6 +435,7 @@ public class Table extends JFrame {
 
 
         }
+
 
     }
 

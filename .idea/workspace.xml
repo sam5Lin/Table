@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7805d6ed-1576-4662-96af-6ce908bafec8" name="Default Changelist" comment="" />
+    <list default="true" id="7805d6ed-1576-4662-96af-6ce908bafec8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TABLE/Table$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TABLE/Table$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TABLE/Table$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TABLE/Table$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TABLE/Table$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TABLE/Table$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TABLE/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TABLE/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TABLE/file/data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TABLE/file/data.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file/data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/data.dat" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +24,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VYWdP5UtbpFbnXhneh1tDyUnk2" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/yii/yjj" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -71,10 +83,26 @@
       <workItem from="1577430617680" duration="6969000" />
       <workItem from="1577447432693" duration="5105000" />
       <workItem from="1577454021645" duration="9535000" />
+      <workItem from="1577463825989" duration="181000" />
+      <workItem from="1577774121128" duration="1530000" />
+      <workItem from="1578120447040" duration="68000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
